@@ -65,7 +65,7 @@ colMap(2,:) = [1    0    1];%magenta
 % Reorg
 nodes = gmSurfaceMesh.node;
 face  = gmSurfaceMesh.face;
-ROImask = zeros(length(nodes),1);
+ROImask = zeros(length(nodes), 1);
 ROImask(ROI.gmNodeList) = 1;
 
 % Plot ############################### 

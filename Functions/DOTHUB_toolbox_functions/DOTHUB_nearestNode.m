@@ -1,10 +1,10 @@
-function [nnode, ind, offset] = DOTHUB_nearestNode(point,nodes)
+    function [nnode, ind, offset] = DOTHUB_nearestNode(point,nodes)
 
 %This function outputs the node (1x3) present in the list nodes (Mx3) that is closest
 %to the 3D location specified by point (1x3) and the offset in whatever
 %dimensions are provided.
 
-%Inputs (point,nodes) : the single point and the list of nodes
+%Inputs (point,nodes): the single point and the list of nodes
 %Outputs [nnode, offset]: the index of the specific node in the list
 %'nodes' which is nearest to the input point, and the offset (euclidean
 %error).

@@ -2,7 +2,7 @@ function [scalpSubset, subsetInd] = getScalpSolSpaceSubset(gmSurfaceMesh,scalpSo
 
 posGM = gmSurfaceMesh.node;
 posROI = posGM(ROIgmNodeList,1:3);
-nposROI = length(posROI);
+nposROI = length(posROI);   
 nScalpPos = length(scalpSolSpace);
 
 count = 1;
