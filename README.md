@@ -1,10 +1,7 @@
 # Array Designer #
 ### Created by Dr. Rob Cooper and Dr. Sabrina Brigadoi ###
-
----
-If you use any of these tools please cite:
-
-Sabrina Brigadoi, Domenico Salvagnin, Matteo Fischetti, Robert J. Cooper, "Array Designer: automated optimized array design for functional near-infrared spectroscopy," Neurophotonics 5(3) 035010 (13 September 2018) https://doi.org/10.1117/1.NPh.5.3.035010
+> *If you use any of these tools please cite:*
+>Sabrina Brigadoi, Domenico Salvagnin, Matteo Fischetti, Robert J. Cooper, "Array Designer: automated optimized array design for functional near-infrared spectroscopy," Neurophotonics 5(3) 035010 (13 September 2018) https://doi.org/10.1117/1.NPh.5.3.035010
 
 ---
 ### Introduction
